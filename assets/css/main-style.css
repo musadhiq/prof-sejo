@@ -277,7 +277,23 @@ html {
 
 
 /* Section */
-
+.edu{
+    padding: 10px;
+}
+.edu-name{
+    padding: 5px 0;
+    list-style: none;
+    font-weight: 500;
+    font-size: 20px;
+}
+.edu-dis{
+    font-size: 13px;
+    color: #f7f7f7;
+}
+.edu-icon{
+    padding-right: 10px;
+    color: red;
+}
 .section {
     color: #fff;
     width: 55%;
